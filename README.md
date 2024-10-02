@@ -1,6 +1,4 @@
-## Transformer Architecture
-
-# Custom GPT-like Language Model Implementation
+## Transformer Architecture - GPT
 
 ## Project Overview
 
